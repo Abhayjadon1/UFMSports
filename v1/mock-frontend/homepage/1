@@ -1,0 +1,543 @@
+{
+  "user_matches": {
+    "match_list": [
+      {
+        "match": {
+          "id": "indeng_2024_test_04",
+          "name": "IND vs ENG 4th Test Match",
+          "match_format": "Test",
+          "tournament_name": "India vs England Test Series",
+          "status": "started",
+          "starts_at": "1726473600000",
+          "teams": {
+            "a": {
+              "name": "India",
+              "code": "IND",
+              "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+              "logo_bg_color": "#4e94ec"
+            },
+            "b": {
+              "name": "England",
+              "code": "ENG",
+              "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+              "logo_bg_color": "#15295e"
+            }
+          },
+          "match_offers": [
+            {
+              "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+              "title": "No Loss Offer:",
+              "subtext": "100% refund if you lose"
+            },
+            {
+              "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+              "title": "Mega Contest:",
+              "subtext": "40Cr prize pool, 1Cr 1st prize"
+            }
+          ],
+          "metadata": {
+            "is_lineup_out": true,
+            "is_match_initialized": true
+          }
+        },
+        "user_contests": 3,
+        "user_teams": 5,
+        "top_running_rank": 100
+      },
+      {
+        "match": {
+          "id": "indgt_2024_01",
+          "name": "IND vs GT 1st Match",
+          "match_format": "T20",
+          "tournament_name": "International League",
+          "status": "completed",
+          "starts_at": "1726387200000",
+          "teams": {
+            "a": {
+              "name": "India",
+              "code": "IND",
+              "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+              "logo_bg_color": "#4e94ec"
+            },
+            "b": {
+              "name": "Gujarat Titans",
+              "code": "GT",
+              "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/gujarat_titans_logo.png",
+              "logo_bg_color": "#E6D7B0"
+            }
+          },
+          "match_offers": [
+            {
+              "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+              "title": "No Loss Offer:",
+              "subtext": "100% refund if you lose"
+            },
+            {
+              "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+              "title": "Mega Contest:",
+              "subtext": "40Cr prize pool, 1Cr 1st prize"
+            }
+          ],
+          "metadata": {
+            "is_lineup_out": true,
+            "is_match_initialized": true
+          }
+        },
+        "user_contests": 1,
+        "user_teams": 1,
+        "top_running_rank": 10000
+      },
+      {
+        "match": {
+          "id": "mieng_2024_02",
+          "name": "MI vs ENG 2nd Match",
+          "match_format": "T20",
+          "tournament_name": "International League",
+          "status": "completed",
+          "starts_at": "1726300800000",
+          "teams": {
+            "a": {
+              "name": "Mumbai Indians",
+              "code": "MI",
+              "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/mumbai_indians_logo.png",
+              "logo_bg_color": "#9CBAFE"
+            },
+            "b": {
+              "name": "England",
+              "code": "ENG",
+              "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+              "logo_bg_color": "#15295e"
+            }
+          },
+          "match_offers": [
+            {
+              "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+              "title": "No Loss Offer:",
+              "subtext": "100% refund if you lose"
+            },
+            {
+              "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+              "title": "Mega Contest:",
+              "subtext": "40Cr prize pool, 1Cr 1st prize"
+            }
+          ],
+          "metadata": {
+            "is_lineup_out": true,
+            "is_match_initialized": true
+          }
+        },
+        "user_contests": 1,
+        "user_teams": 2,
+        "top_running_rank": 101223
+      },
+      {
+        "match": {
+          "id": "gtmi_2024_03",
+          "name": "GT vs MI 3rd Match",
+          "match_format": "T20",
+          "tournament_name": "International League",
+          "status": "upcoming",
+          "starts_at": 1729228731776,
+          "teams": {
+            "a": {
+              "name": "Gujarat Titans",
+              "code": "GT",
+              "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/gujarat_titans_logo.png",
+              "logo_bg_color": "#E6D7B0"
+            },
+            "b": {
+              "name": "Mumbai Indians",
+              "code": "MI",
+              "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/mumbai_indians_logo.png",
+              "logo_bg_color": "#9CBAFE"
+            }
+          },
+          "match_offers": [
+            {
+              "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+              "title": "No Loss Offer:",
+              "subtext": "100% refund if you lose"
+            },
+            {
+              "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+              "title": "Mega Contest:",
+              "subtext": "40Cr prize pool, 1Cr 1st prize"
+            }
+          ],
+          "metadata": {
+            "is_lineup_out": false,
+            "is_match_initialized": true
+          }
+        },
+        "user_contests": 3,
+        "user_teams": 5,
+        "top_running_rank": null
+      }
+    ]
+  },
+  "current_offers": {
+    "offer_list": [
+      {
+        "offer_banner_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/offer_banners/banner_2.png",
+        "type": "add_cash_offer"
+      }
+    ]
+  },
+  "featured_tournament": {
+    "tournament_list": [
+      {
+        "tournament_id": "indeng_2024_test",
+        "tournament_name": "Indian vs England Test Series",
+        "match_list": [
+          {
+            "id": "indeng_2024_test_01",
+            "name": "IND vs ENG 1st Test Match",
+            "match_format": "Test",
+            "tournament_name": "India vs England Test Series",
+            "status": "not_started",
+            "starts_at": 1729180090248,
+            "teams": {
+              "a": {
+                "name": "India",
+                "code": "IND",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+                "logo_bg_color": "#4e94ec"
+              },
+              "b": {
+                "name": "England",
+                "code": "ENG",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+                "logo_bg_color": "#15295e"
+              }
+            },
+            "match_offers": [
+              {
+                "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+                "title": "No Loss Offer:",
+                "subtext": "100% refund if you lose"
+              },
+              {
+                "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+                "title": "Mega Contest:",
+                "subtext": "40Cr prize pool, 1Cr 1st prize"
+              }
+            ],
+            "metadata": {
+              "is_lineup_out": true,
+              "is_match_initialized": true
+            }
+          },
+          {
+            "id": "indeng_2024_test_02",
+            "name": "IND vs ENG 2nd Test Match",
+            "match_format": "Test",
+            "tournament_name": "India vs England Test Series",
+            "status": "not_started",
+            "starts_at": 1729266490248,
+            "teams": {
+              "a": {
+                "name": "India",
+                "code": "IND",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+                "logo_bg_color": "#4e94ec"
+              },
+              "b": {
+                "name": "England",
+                "code": "ENG",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+                "logo_bg_color": "#15295e"
+              }
+            },
+            "match_offers": [
+              {
+                "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+                "title": "No Loss Offer:",
+                "subtext": "100% refund if you lose"
+              },
+              {
+                "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+                "title": "Mega Contest:",
+                "subtext": "40Cr prize pool, 1Cr 1st prize"
+              }
+            ],
+            "metadata": {
+              "is_lineup_out": false,
+              "is_match_initialized": true
+            }
+          },
+          {
+            "id": "indeng_2024_test_03",
+            "name": "IND vs ENG 3rd Test Match",
+            "match_format": "Test",
+            "tournament_name": "India vs England Test Series",
+            "status": "not_started",
+            "starts_at": 1729352890248,
+            "teams": {
+              "a": {
+                "name": "India",
+                "code": "IND",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+                "logo_bg_color": "#4e94ec"
+              },
+              "b": {
+                "name": "England",
+                "code": "ENG",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+                "logo_bg_color": "#15295e"
+              }
+            },
+            "match_offers": [
+              
+            ],
+            "metadata": {
+              "is_lineup_out": false,
+              "is_match_initialized": false
+            }
+          },
+          {
+            "id": "indeng_2024_test_04",
+            "name": "IND vs ENG 4th Test Match",
+            "match_format": "Test",
+            "tournament_name": "India vs England Test Series",
+            "status": "not_started",
+            "starts_at": 1729439290248,
+            "teams": {
+              "a": {
+                "name": "India",
+                "code": "IND",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+                "logo_bg_color": "#4e94ec"
+              },
+              "b": {
+                "name": "England",
+                "code": "ENG",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+                "logo_bg_color": "#15295e"
+              }
+            },
+            "match_offers": [
+              
+            ],
+            "metadata": {
+              "is_lineup_out": false,
+              "is_match_initialized": true
+            }
+          },
+          {
+            "id": "indeng_2024_test_05",
+            "name": "IND vs ENG 5th Test Match",
+            "match_format": "Test",
+            "tournament_name": "India vs England Test Series",
+            "status": "not_started",
+            "starts_at": 1729525690248,
+            "teams": {
+              "a": {
+                "name": "India",
+                "code": "IND",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+                "logo_bg_color": "#4e94ec"
+              },
+              "b": {
+                "name": "England",
+                "code": "ENG",
+                "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+                "logo_bg_color": "#15295e"
+              }
+            },
+            "match_offers": [
+              {
+                "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+                "title": "Mega Contest:",
+                "subtext": "40Cr prize pool, 1Cr 1st prize"
+              }
+            ],
+            "metadata": {
+              "is_lineup_out": false,
+              "is_match_initialized": true
+            }
+          }
+        ],
+        "prev_page": null,
+        "next_page": 2
+      }
+    ]
+  },
+  "upcoming_matches": {
+    "match_list": [
+      {
+        "id": "gtmi_2024_01",
+        "name": "GT vs MI 1st Match",
+        "match_format": "T20",
+        "tournament_name": "International League",
+        "status": "not_started",
+        "starts_at": 1729180090248,
+        "teams": {
+          "a": {
+            "name": "Gujarat Titans",
+            "code": "GT",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/gujarat_titans_logo.png",
+            "logo_bg_color": "#E6D7B0"
+          },
+          "b": {
+            "name": "Mumbai Indians",
+            "code": "MI",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/mumbai_indians_logo.png",
+            "logo_bg_color": "#9CBAFE"
+          }
+        },
+        "match_offers": [
+          {
+            "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+            "title": "No Loss Offer:",
+            "subtext": "100% refund if you lose"
+          },
+          {
+            "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+            "title": "Mega Contest:",
+            "subtext": "40Cr prize pool, 1Cr 1st prize"
+          }
+        ],
+        "metadata": {
+          "is_lineup_out": true,
+          "is_match_initialized": true
+        }
+      },
+      {
+        "id": "gtmi_2024_02",
+        "name": "GT vs MI 2nd Match",
+        "match_format": "T20",
+        "tournament_name": "International League",
+        "status": "not_started",
+        "starts_at": 1729266490248,
+        "teams": {
+          "a": {
+            "name": "Gujarat Titans",
+            "code": "GT",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/gujarat_titans_logo.png",
+            "logo_bg_color": "#E6D7B0"
+          },
+          "b": {
+            "name": "Mumbai Indians",
+            "code": "MI",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/mumbai_indians_logo.png",
+            "logo_bg_color": "#9CBAFE"
+          }
+        },
+        "match_offers": [
+          {
+            "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+            "title": "No Loss Offer:",
+            "subtext": "100% refund if you lose"
+          },
+          {
+            "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+            "title": "Mega Contest:",
+            "subtext": "40Cr prize pool, 1Cr 1st prize"
+          }
+        ],
+        "metadata": {
+          "is_lineup_out": false,
+          "is_match_initialized": true
+        }
+      },
+      {
+        "id": "gtmi_2024_03",
+        "name": "GT vs MI 3rd Match",
+        "match_format": "T20",
+        "tournament_name": "International League",
+        "status": "not_started",
+        "starts_at": 1729352890248,
+        "teams": {
+          "a": {
+            "name": "Gujarat Titans",
+            "code": "GT",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/gujarat_titans_logo.png",
+            "logo_bg_color": "#E6D7B0"
+          },
+          "b": {
+            "name": "Mumbai Indians",
+            "code": "MI",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/mumbai_indians_logo.png",
+            "logo_bg_color": "#9CBAFE"
+          }
+        },
+        "match_offers": [
+          
+        ],
+        "metadata": {
+          "is_lineup_out": false,
+          "is_match_initialized": false
+        }
+      },
+      {
+        "id": "gtmi_2024_04",
+        "name": "GT vs MI 4th Match",
+        "match_format": "T20",
+        "tournament_name": "International League",
+        "status": "not_started",
+        "starts_at": 1729439290248,
+        "teams": {
+          "a": {
+            "name": "Gujarat Titans",
+            "code": "GT",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/gujarat_titans_logo.png",
+            "logo_bg_color": "#E6D7B0"
+          },
+          "b": {
+            "name": "Mumbai Indians",
+            "code": "MI",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/mumbai_indians_logo.png",
+            "logo_bg_color": "#9CBAFE"
+          }
+        },
+        "match_offers": [
+          
+        ],
+        "metadata": {
+          "is_lineup_out": false,
+          "is_match_initialized": true
+        }
+      },
+      {
+        "id": "gtmi_2024_05",
+        "name": "GT vs MI 5th Match",
+        "match_format": "T20",
+        "tournament_name": "International League",
+        "status": "not_started",
+        "starts_at": 1729525690248,
+        "teams": {
+          "a": {
+            "name": "Gujarat Titans",
+            "code": "GT",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/gujarat_titans_logo.png",
+            "logo_bg_color": "#E6D7B0"
+          },
+          "b": {
+            "name": "Mumbai Indians",
+            "code": "MI",
+            "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/mumbai_indians_logo.png",
+            "logo_bg_color": "#9CBAFE"
+          }
+        },
+        "match_offers": [
+          {
+            "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+            "title": "Mega Contest:",
+            "subtext": "40Cr prize pool, 1Cr 1st prize"
+          }
+        ],
+        "metadata": {
+          "is_lineup_out": false,
+          "is_match_initialized": true
+        }
+      }
+    ],
+    "prev_page": null,
+    "next_page": 2
+  },
+  "wallet_summary": {
+    "total_balance": 506,
+    "cash_balance": 355,
+    "bonus_balance": 151
+  }
+}

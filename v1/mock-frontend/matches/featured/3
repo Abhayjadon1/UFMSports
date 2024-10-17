@@ -1,0 +1,168 @@
+{
+  "match_list": [
+    {
+      "id": "indeng_2024_test_11",
+      "name": "IND vs ENG 11th Test Match",
+      "match_format": "Test",
+      "tournament_name": "India vs England Test Series",
+      "status": "not_started",
+      "starts_at": 1730045325596,
+      "teams": {
+        "a": {
+          "name": "India",
+          "code": "IND",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+          "logo_bg_color": "#4e94ec"
+        },
+        "b": {
+          "name": "England",
+          "code": "ENG",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+          "logo_bg_color": "#15295e"
+        }
+      },
+      "match_offers": [
+        
+      ],
+      "metadata": {
+        "is_lineup_out": false,
+        "is_match_initialized": false
+      }
+    },
+    {
+      "id": "indeng_2024_test_12",
+      "name": "IND vs ENG 12th Test Match",
+      "match_format": "Test",
+      "tournament_name": "India vs England Test Series",
+      "status": "not_started",
+      "starts_at": 1730131725596,
+      "teams": {
+        "a": {
+          "name": "India",
+          "code": "IND",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+          "logo_bg_color": "#4e94ec"
+        },
+        "b": {
+          "name": "England",
+          "code": "ENG",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+          "logo_bg_color": "#15295e"
+        }
+      },
+      "match_offers": [
+        {
+          "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+          "title": "No Loss Offer:",
+          "subtext": "100% refund if you lose"
+        },
+        {
+          "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+          "title": "Mega Contest:",
+          "subtext": "40Cr prize pool, 1Cr 1st prize"
+        }
+      ],
+      "metadata": {
+        "is_lineup_out": true,
+        "is_match_initialized": true
+      }
+    },
+    {
+      "id": "indeng_2024_test_13",
+      "name": "IND vs ENG 13th Test Match",
+      "match_format": "Test",
+      "tournament_name": "India vs England Test Series",
+      "status": "not_started",
+      "starts_at": 1730218125596,
+      "teams": {
+        "a": {
+          "name": "India",
+          "code": "IND",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+          "logo_bg_color": "#4e94ec"
+        },
+        "b": {
+          "name": "England",
+          "code": "ENG",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+          "logo_bg_color": "#15295e"
+        }
+      },
+      "match_offers": [
+        
+      ],
+      "metadata": {
+        "is_lineup_out": false,
+        "is_match_initialized": false
+      }
+    },
+    {
+      "id": "indeng_2024_test_14",
+      "name": "IND vs ENG 14th Test Match",
+      "match_format": "Test",
+      "tournament_name": "India vs England Test Series",
+      "status": "not_started",
+      "starts_at": 1730304525596,
+      "teams": {
+        "a": {
+          "name": "India",
+          "code": "IND",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+          "logo_bg_color": "#4e94ec"
+        },
+        "b": {
+          "name": "England",
+          "code": "ENG",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+          "logo_bg_color": "#15295e"
+        }
+      },
+      "match_offers": [
+        {
+          "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_1.png",
+          "title": "No Loss Offer:",
+          "subtext": "100% refund if you lose"
+        }
+      ],
+      "metadata": {
+        "is_lineup_out": true,
+        "is_match_initialized": true
+      }
+    },
+    {
+      "id": "indeng_2024_test_15",
+      "name": "IND vs ENG 15th Test Match",
+      "match_format": "Test",
+      "tournament_name": "India vs England Test Series",
+      "status": "not_started",
+      "starts_at": 1730390925596,
+      "teams": {
+        "a": {
+          "name": "India",
+          "code": "IND",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/India_national_cricket_team_logo.png",
+          "logo_bg_color": "#4e94ec"
+        },
+        "b": {
+          "name": "England",
+          "code": "ENG",
+          "logo_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/teams/logos/England_cricket_team_logo.png",
+          "logo_bg_color": "#15295e"
+        }
+      },
+      "match_offers": [
+        {
+          "offer_icon_url": "https://ufmsports.s3.ap-south-1.amazonaws.com/app/assets/match_offers/indeng_2021_test_04/offer_2.png",
+          "title": "Mega Contest:",
+          "subtext": "40Cr prize pool, 1Cr 1st prize"
+        }
+      ],
+      "metadata": {
+        "is_lineup_out": false,
+        "is_match_initialized": true
+      }
+    }
+  ],
+  "previous_page": 2,
+  "next_page": null
+}
